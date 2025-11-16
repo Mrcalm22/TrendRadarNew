@@ -1,7 +1,10 @@
 openpliot
 commaai
+Konik
 
 SpaceX
+星链
+Starlink
 马斯克
 
 自动驾驶
@@ -11,31 +14,29 @@ SpaceX
 AI
 人工智能
 人形机器人
+机器人
 
 航天
 中国航天
+商业航天
 通信卫星
 低轨互联网卫星
+nasa
+esa
 
 数字化转型
 数据治理
+协同设计
 
 PLM
 产品全生命周期管理
-
-DeepSeek
-梁文锋
+系统工程
+达索
+西门子
 
 宇树
 王兴兴
-
 智元
-灵犀
-稚晖君
-彭志辉
-
-三体
-流浪地球
 
 微软
 Microsoft
@@ -54,31 +55,22 @@ deepmind
 chatgpt
 openai
 sora
+AGI
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
-
-美国
-日本
-韩国
 
 芯片
 光刻机
 
 科技
 创业
-
+融资
+IPO
 
 新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+移民
+德国移民
+香港优才
+蓝卡
